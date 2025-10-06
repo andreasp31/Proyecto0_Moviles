@@ -1,4 +1,4 @@
-# Proyecto0_Moviles
+# Proyecto 0 Moviles
 Práctica 0 : Programación Multimedia y Dispositivos Móviles
 
 ### Pequeña práctica de conexión entre Activities
